@@ -1,15 +1,15 @@
 {
-  "main.css": "/Textutils-React/static/css/main.0dfbdd66.chunk.css",
-  "main.js": "/Textutils-React/static/js/main.b27ad283.chunk.js",
-  "main.js.map": "/Textutils-React/static/js/main.b27ad283.chunk.js.map",
-  "static/js/1.03ae7ea8.chunk.js": "/Textutils-React/static/js/1.03ae7ea8.chunk.js",
-  "static/js/1.03ae7ea8.chunk.js.map": "/Textutils-React/static/js/1.03ae7ea8.chunk.js.map",
-  "static/js/2.5b977f20.chunk.js": "/Textutils-React/static/js/2.5b977f20.chunk.js",
-  "static/js/2.5b977f20.chunk.js.map": "/Textutils-React/static/js/2.5b977f20.chunk.js.map",
-  "runtime~main.js": "/Textutils-React/static/js/runtime~main.b75c6432.js",
-  "runtime~main.js.map": "/Textutils-React/static/js/runtime~main.b75c6432.js.map",
-  "static/css/main.0dfbdd66.chunk.css.map": "/Textutils-React/static/css/main.0dfbdd66.chunk.css.map",
-  "index.html": "/Textutils-React/index.html",
-  "precache-manifest.92e5b1158c4ccfb677f6b07bbc6f2744.js": "/Textutils-React/precache-manifest.92e5b1158c4ccfb677f6b07bbc6f2744.js",
-  "service-worker.js": "/Textutils-React/service-worker.js"
+  "main.css": "/Textutils-React2/static/css/main.0dfbdd66.chunk.css",
+  "main.js": "/Textutils-React2/static/js/main.dd5c692e.chunk.js",
+  "main.js.map": "/Textutils-React2/static/js/main.dd5c692e.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/Textutils-React2/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/Textutils-React2/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.5b977f20.chunk.js": "/Textutils-React2/static/js/2.5b977f20.chunk.js",
+  "static/js/2.5b977f20.chunk.js.map": "/Textutils-React2/static/js/2.5b977f20.chunk.js.map",
+  "runtime~main.js": "/Textutils-React2/static/js/runtime~main.525af8e1.js",
+  "runtime~main.js.map": "/Textutils-React2/static/js/runtime~main.525af8e1.js.map",
+  "static/css/main.0dfbdd66.chunk.css.map": "/Textutils-React2/static/css/main.0dfbdd66.chunk.css.map",
+  "index.html": "/Textutils-React2/index.html",
+  "precache-manifest.abbf202ad9b9f16f65df1f2904a6d9d9.js": "/Textutils-React2/precache-manifest.abbf202ad9b9f16f65df1f2904a6d9d9.js",
+  "service-worker.js": "/Textutils-React2/service-worker.js"
 }
